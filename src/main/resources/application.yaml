@@ -1,0 +1,3 @@
+cxf:
+  # 必须以 / 开头
+  path: /student-service
